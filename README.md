@@ -1,4 +1,4 @@
- AI-Based Smart Allocation System for PM Internship
+ AI-Based Smart Recommendation System for PM Internship
 
  Overview
 
@@ -135,10 +135,10 @@ Author
 Rakshitha S
 
 
-Minor Project – AI-Based Smart Allocation System for PM Internship
+Minor Project – AI-Based Smart Recommendation System for PM Internship
 
 ---
 
-💬 Summary
+ Summary
 
 This project demonstrates the application of machine learning, backend development, and frontend integration to build an intelligent system capable of solving real-world allocation and recommendation problems.
